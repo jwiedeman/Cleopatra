@@ -14,6 +14,7 @@ This private repository captures ongoing automation, analytics, and research wor
 - `spec/`
   - `gtm_configs/`: Specification files for GTM container setups and deployment playbooks.
 - `umg_domains.csv`: Canonical list of UMG domains and associated metadata (entity type, region, notes).
+- `artist_registry.csv`: Master roster of priority UMG artists, their label homes, and reference URLs.
 
 Keep this file updated as new folders and tooling are introduced so contributors have a single source of truth for the workspace layout.
 
